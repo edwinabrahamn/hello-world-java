@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> this is new addition</h1>
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>changed to ckeck poll scm working</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
